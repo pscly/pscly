@@ -13,4 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+🌱 I’m currently learning C/C++
+
 -->
+
+```
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pscly&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+```
+
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pscly&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
+```
