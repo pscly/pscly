@@ -42,7 +42,7 @@
 
 ## 我擅长的方向
 
-| 方向 | 关注重点 | 常见落地方式 |
+| 方向 | 关注重点 | 具体实现 |
 | --- | --- | --- |
 | AI 工作流自动化 | 让重复流程变成稳定能力 | Python 脚本、任务编排、消息通知、自动处理链路 |
 | AI 集成 | 让模型真正接入系统与工具 | API 集成、Tool Calling、服务联动、内部工具接入 |
@@ -89,6 +89,8 @@
 
 ## 联系我
 
+- 微信: amrust
+- pscly@outlook.com
 - GitHub: [@pscly](https://github.com/pscly)
 - X / Twitter: [@pscly2](https://x.com/pscly2)
 
